@@ -1,0 +1,41 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(245, 220, 243);
+    background-image: url(https://img.freepik.com/free-photo/dog-playing-with-ball-park_23-2147902137.jpg?w=996&t=st=1728369189~exp=1728369789~hmac=f76b8878b7d8ecd599ffbf6f8e96d7758b7cca675a0490a1a201d866ba915ada);
+     width: 250px;
+    margin: 0 auto;
+}
+h1{
+    color: rgb(84, 9, 39);
+    border: 4px solid rgb(160, 5, 67);
+    text-align: center;
+    font-family: cursive;
+}
+
+h2{
+    color: rgb(84, 9, 39);}
+
+ blockquote{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:rgb(160, 5, 67);
+    font-size: calc(2rem);
+}
+
+ul{
+    border:4px,solid rgb(160, 5, 67);
+}
+table{
+    border-collapse: collapse;
+    border-width: 7px;
+}
+
+fieldset{
+    background-color:rgb(160, 5, 67);
+}
+em{
+    font-weight: bold;
+}
+img{
+    border: 5px solid rgb(160, 5, 67);
+      border-radius: 35px;
+    }
